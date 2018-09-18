@@ -1,0 +1,53 @@
+body{
+    background-image: url("Assets/images/one_punch_man-wallpaper-10787317.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto;
+}
+.header{
+    color: white;
+    font-style: inherit;
+    text-align: center;
+    line-height: 200px;
+}
+.text{
+    color: white;
+    font-style: Comic Sans MS;
+    text-align: center;
+    
+}
+.input{
+    content: 100px;
+    vertical-align: middle;
+}
+.fancy{
+    width: 60%;
+    padding: 7px 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+
+}
+.pad{
+    padding: 10px;
+    border-radius: 10px;
+
+}
+.text2{
+    color: white;
+    font-style: Comic Sans MS;
+    text-align: right;
+}
+.good{
+    width: 10%; 
+    height: 30%; 
+    margin: auto; 
+    border:1px solid #fff; 
+    background: transparent; 
+    padding: 20px;
+}
+.footer{
+    color:blue;
+    margin-top: 10px;
+      
+}
